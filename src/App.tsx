@@ -1,4 +1,3 @@
-import Footer from "./components/elements/Footer";
 import { Layout } from "./components/Layout";
 import { AboutUs } from "./components/sections/AboutUs";
 import { Brands } from "./components/sections/Brands";
