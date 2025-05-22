@@ -1,7 +1,7 @@
 import { HiSun } from "react-icons/hi";
 import { HiMoon } from "react-icons/hi";
 import { Container } from "../shared/Container";
-import Logo from "../../assets/icon.svg";
+import Logo from "./assets/icon.svg";
 import { NavItem } from "../shared/NavItem";
 import { BtnLink } from "../shared/BtnLink";
 import { useThemeStore } from "../../store/ThemeStore";
