@@ -2,7 +2,7 @@ import { Button } from "../shared/Button";
 import { Container } from "../shared/Container";
 import { Paragraph } from "../shared/Paragraph";
 import { CiMail } from "react-icons/ci";
-import HeroImage from "./assets/HeroImage.jpg";
+import HeroImage from "/assets/HeroImage.jpg";
 import { Numbers } from "./Numbers";
 
 export const Hero = () => {

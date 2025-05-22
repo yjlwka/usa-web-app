@@ -1,5 +1,5 @@
 import { Container } from "../shared/Container";
-import AboutUsImage from "./assets/AboutUs.jpg";
+import AboutUsImage from "/assets/AboutUs.jpg";
 import { Title } from "../shared/Title";
 import { Paragraph } from "../shared/Paragraph";
 import { Info } from "../cards/Info";
